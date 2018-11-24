@@ -69,6 +69,7 @@ The gitignore file ignores the .git and .ipynb_checkpoints in the local folder. 
 * License - GNU GENERAL PUBLIC LICENSE Version 3
 * README.md - this readme
 * project.pdf - a pdf of the assignment
+* Commuting-relatedstressConsequencesandimplications.pdf - a report in which the data in this repo was modelled.
 * commute-stress.ipynb - The main body of the assignment
 
 
