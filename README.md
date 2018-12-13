@@ -9,7 +9,7 @@ Project for GMIT Course Programming for Data Analysis
 ## Requirments of the assignment
 
    1. Create a dataset by simulating a real world phenomenon. Model the data via python in particular numpy.random is suggested. 
-   2. Choose a real world phenomenon thta can be measured and for which you could collect at least  one hundred data points across at least four different variables.  
+   2. Choose a real world phenomenon that can be measured and for which you could collect at least  one hundred data points across at least four different variables.  
    3. Investigate the type of variables involved, their likely distributions, and their relationshps with each other. 
    4. Synthesise/simulate a data set as closely matching their properties as possible. 
    5.  Detail your research and implement the simulation in a jupyter notebook. The dataset itself can simply be displayed in an output cell within the notebook. 
@@ -128,7 +128,7 @@ Save any unsaved jupyter notebooks. Close jupyter notebook windows in your brows
 ```
 git status
 git add .
-git commit -m "add a relivent commit message"
+git commit -m "add a relevant commit message"
 git push
 ```
 
