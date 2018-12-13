@@ -1,6 +1,10 @@
 # Commuting Stress
 Project for GMIT Course Programming for Data Analysis
+
+
 # Programming for Data Analysis Project 2018 - Create a dataset by simulating a real world phenomenon
+
+
 
 ## Requirments of the assignment
 
@@ -20,7 +24,7 @@ Project for GMIT Course Programming for Data Analysis
    5. Assignment deadline 14/12/2018 at midnight
    6. README file containing an explanation of what is in the repository and how to run jupyter notebook. 
    7. Jupyter notebook with the project
-         * Explain the dataset? no data set so must mean explain numpy.random
+         * Explain the dataset
          * Have well conceived, interesting and well researched project
          * Assignment covers jupyter notebook so include fancy stuff like images, links, code and plots
          * Any python package that you fancy. 
@@ -64,18 +68,17 @@ git - version
 The gitignore file ignores the .git and .ipynb_checkpoints in the local folder. Python files are also ignored. A standard gitignore file was used. It can be found here [Python gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore) 
 
 
-* img - various images used within the report; 
 * .gitignore - gitignore file taken from [gitignore](https://github.com/github/gitignore/blob/master/Python.gitignore)
 * License - GNU GENERAL PUBLIC LICENSE Version 3
 * README.md - this readme
 * project.pdf - a pdf of the assignment
-* Commuting-relatedstressConsequencesandimplications.pdf - a report in which the data in this repo was modelled.
-* commute-stress.ipynb - The main body of the assignment
+* research - a folder containing pdf's Commuting-relatedstressConsequencesandimplications.pdf - a report in which the data in this repo was modelled and one titled oecdwellbeing.pdf.
+* **commute-stress.ipynb** - The main body of the assignment
 
 
 ## Jupyter 
 
-The main body of work is in the jupyter notebook *commute-stress.ipynb*. 
+The main body of work is in the jupyter notebook ***commute-stress.ipynb***. 
 
 
 ### Running a Jupyter notebook
@@ -134,8 +137,8 @@ git push
 Jupyter notebooks have the extension ipynb. When you find a notebook that you want to look at or edit, don't click on it; Instead right click and save it to your local pc. Then open jupyter notebook via the cmder commandline and navigate to the notebook. NB; **before opening the notebook make sure the notebook is saved in a sub directory of the cmder path**. Jupyter notebooks cannot access any files that are not within the path when the kernal is called. 
 
 ## Issues
-1. 
-2.  
+1. The ratings for the distance and duration band have to be tweeked more to better match the expected shape
+  
 
 
 ## Authors
@@ -146,9 +149,4 @@ Jupyter notebooks have the extension ipynb. When you find a notebook that you wa
 ## License
 
 This project is licensed under the  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* 
-* 
 
